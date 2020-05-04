@@ -1,0 +1,2 @@
+Author: HG
+This sub-folder was created to map all files related to Ineuron assignment 1 easily.
